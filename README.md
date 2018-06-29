@@ -21,9 +21,9 @@ We have used various approaches to go about this problem and have found that LST
 This project was given to us as a condensed part of the course CS5242, National University of Singapore, as a 3 week summer internship program. (GAIP Big Data Analysis using ANNs)
 
 ## Contributors
-1. [https://github.com/ishaanverma]
-2. [https://github.com/AnKuR-GaRg1]
-3. [https://github.com/mukeshkaranth]
-4. [https://github.com/janimalaga]
-5. [https://github.com/sauradefy99]
+1. https://github.com/ishaanverma
+2. https://github.com/AnKuR-GaRg1
+3. https://github.com/mukeshkaranth
+4. https://github.com/janimalaga
+5. https://github.com/sauradefy99
 6. Samksha Bhardwaj
