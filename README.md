@@ -1,7 +1,7 @@
 # Sentiment-Analysis-deep-learning
 
 
-## Dataset 
+## Dataset
 Here we used the dataset provided in the kaggle challenge link: https://www.kaggle.com/t/38fb9af3b5ab478db84d5cd8272265be
 
 ## Interpretation of data
@@ -25,4 +25,5 @@ This project was given to us as a condensed part of the course CS5242, National 
 2. github.com/AnKuR-GaRg1
 3. github.com/mukeshkaranth
 4. github.com/janimalaga
-5. Samksha Bhardwaj
+5. github.com/sauradefy99
+6. Samksha Bhardwaj
